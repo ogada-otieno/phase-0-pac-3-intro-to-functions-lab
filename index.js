@@ -23,7 +23,7 @@ function sayHiToHeadphonedRoommate(string) {
         return "YES INDEED!";
     }
 
-    else if ("Let's have dinner together!") {
+    if ("Let's have dinner together!") {
         return "I would love to!";
     }
 }
