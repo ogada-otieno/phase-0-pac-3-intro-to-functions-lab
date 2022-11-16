@@ -27,4 +27,3 @@ function sayHiToHeadphonedRoommate(string) {
         return "I would love to!";
     }
 }
-
